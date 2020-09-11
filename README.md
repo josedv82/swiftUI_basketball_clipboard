@@ -7,7 +7,7 @@ A basic prototype of digital basketball clipboard app built on swiftUI. It enabl
 ## Code
 
 [contentView]()  
-[player view example]()  
+[player view example](https://github.com/josedv82/swiftUI_basketball_clipboard/blob/master/colom.swift)
 
 ## Notes
 
