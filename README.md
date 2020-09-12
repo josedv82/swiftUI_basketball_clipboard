@@ -12,4 +12,4 @@ A basic prototype of a digital basketball clipboard app built on swiftUI. It ena
 
 ## Notes
 
-For the drawing part of the app, please refer to [this repo](https://github.com/martinmitrevski/DrawingPadSwiftUI) from from Martin Mitrevski
+For the drawing part of the app, please refer to [this repo](https://github.com/martinmitrevski/DrawingPadSwiftUI) from [Martin Mitrevski](https://twitter.com/mitrevski)
